@@ -4,7 +4,8 @@ const allowedOrigins = [
     'http://localhost:3500',
     'http://localhost:3000',
     'https://expressjs-funnygallery-api.onrender.com/',
-    'https://expressjs-funnygallery.onrender.com/'
+    'https://expressjs-funnygallery.onrender.com/',
+    'https://expressjs-funnygallery-production.up.railway.app/'
 ];
 
 module.exports = allowedOrigins;
